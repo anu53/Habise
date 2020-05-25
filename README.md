@@ -1,2 +1,2 @@
 # Habise
-My Company name
+The Great Sight Magazine
